@@ -15,22 +15,6 @@ I'm passionate about **web development**, **mobile app development**, and **clou
 
 
 
-# 👋 Salut, je suis Tokpastein
-
-## À propos de moi
-Je suis passionné par le **développement web**, le **développement d'applications mobiles** et la **computing en nuage**. Actuellement, je me concentre sur l'apprentissage du **JavaScript** pour élargir mes compétences en développement.
-
-## Intérêts
-- 👀 Je m'intéresse particulièrement à la création de solutions innovantes qui tirent parti des dernières technologies pour résoudre des problèmes réels.
-- 🌱 J'apprends constamment de nouvelles choses pour rester à la pointe de la technologie.
-
-## Collaborations
-- 💞️ Je suis à la recherche de collaborations sur des projets **excitants** et **innovants**. Si vous avez une idée qui peut changer le monde, ou si vous avez besoin d'un coup de main sur votre projet, n'hésitez pas à me contacter.
-
-## Contactez-moi
-- 📫 Vous pouvez me joindre à l'adresse suivante : tokpa.dev@gmail.com
-
-
 <!---
 Tokpawood/Tokpawood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

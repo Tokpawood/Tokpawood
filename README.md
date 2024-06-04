@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romaric Tokpa</h1>
-<h3 align="center">I'm passionate about web development, mobile app development**, and cloud computing.</h3>
+<h3 align="center">I'm passionate about web development, mobile app development, and cloud computing.</h3>
 
 
 </p>
